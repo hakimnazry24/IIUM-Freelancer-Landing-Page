@@ -36,12 +36,10 @@ export default function LandingPageIIUMFreelancer() {
             </button>
           </div>
           <div>
-            <Image
+            <img
               src="/phone.png"
               alt=""
               className="animate-fade-left"
-              width={270}
-              height={270}
             />
           </div>
         </section>
